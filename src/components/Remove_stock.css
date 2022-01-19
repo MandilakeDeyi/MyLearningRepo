@@ -1,0 +1,35 @@
+.remove_container{
+    width: 330px;
+    height: 400px;
+    padding: 8px;
+    margin: 8px;
+    background-color: white;
+    border-radius: 8px;
+}
+.email,.bought{
+    width: 324px; 
+    
+}
+.email{
+    margin-bottom: 19px;
+}
+.bought{
+    margin-bottom: 4px;
+}
+.ship_button{
+    width: 330px;
+  background-color: rgb(214, 10, 10);
+  color: white;
+  margin-top: 50px;
+   
+}
+.hey{
+    margin-left: 90px;
+    color: rgb(10, 10, 10);
+    margin-bottom: 9px;
+}
+.remove_select{
+    width: 330px;
+  padding: 0;
+  margin-bottom:  22px;
+}

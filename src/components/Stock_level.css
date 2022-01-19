@@ -1,0 +1,29 @@
+.list{
+    background-color: white;
+    width: 380px;
+    height: 400px;
+    margin-top: 15px;
+    padding-top: 3px;
+    border-radius: 8px;
+}
+.button_list{
+    padding: 15px;
+    margin-left: 80px;
+    margin-top: 4px;
+}
+.add_button{
+    width: 60px;
+    height: 25px;
+    border-radius: 6px;
+    background-color: rgb(36, 8, 160);
+    margin-right: 30px;
+    color: white;
+    padding: 3px;
+}
+.remove_button{
+    height: 25px;
+    background-color: red;
+    border-radius: 6px;
+    color: white;
+    padding: 3px;
+}
