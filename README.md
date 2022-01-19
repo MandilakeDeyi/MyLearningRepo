@@ -1,3 +1,6 @@
+#MyLearningRepo
+This is a website built to allow seller to market their products, it is built using reactjs,javascript,html and css.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
